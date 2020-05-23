@@ -1,10 +1,1 @@
-android_app_import {
-    name: "Wallpaper-liquid-pdx203-release",
-    apk: "prebuilt/app/Wallpaper-liquid-pdx203-release/Wallpaper-liquid-pdx203-release.apk",
-    certificate: "releasekey",
-    dex_preopt: {
-        enabled: false,
-    },
-    privileged: false,
-}
 
